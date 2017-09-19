@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>K-NiNos.</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<!-- google fonts -->
+
+		<!-- Css link -->
+		<link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/owl.carousel.css">
+		<link rel="stylesheet" href="css/owl.transitions.css">
+		<link rel="stylesheet" href="css/animate.min.css">
+		<link rel="stylesheet" href="css/lightbox.css">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/preloader.css">
+		<link rel="stylesheet" href="css/image.css">
+		<link rel="stylesheet" href="css/icon.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/responsive.css">
+
+	</head>
+	<body id="top">
+	
+
+        <header id="navigation" class="navbar-fixed-top animated-header">
+            <div class="container">
+                <div class="navbar-header">
+                    <!-- responsive nav button -->
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+                    </button>
+					<!-- /responsive nav button -->
+					
+					<!-- logo -->
+					<h1 class="navbar-brand">
+						<a href="#body"><img src="img/logo.png" height="40" width="164" alt=""></a>
+					</h1>
+					<!-- /logo -->
+                </div>
+
+				<!-- main nav -->
+                <nav class="collapse navbar-collapse navbar-right" role="navigation">
+                    <ul id="nav" class="nav navbar-nav menu">
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="#blog">galeria</a></li>
+                       <li><a href="#pricing-table">fundaciones</a></li>
+                        <li><a href="#contact-form">Contacto</a></li>
+                     <li><a href="index0.1.html">Cerrar sesion</a></li>
+                    </ul>
+                </nav>
+				<!-- /main nav -->
+				
+            </div>
+        </header>
+
+
+	<div class="wrapper">
+		<section id="bannern">
+
+			<div class="container">
+					<center>
+				<div class="row">
+					<div class="col-md-12">
+				
+						<div class="block">
+						
+							<h1>ðŸ¾ !!Animate!! Adopta ðŸ¾</h1>
+							<h2>Necesitamos dÃ­a a dÃ­a mÃ¡s personas comprometidas con la protecciÃ³n de perros en todo el territorio colombiano <br> estamos seguros que habrÃ¡ al menos un perro que quieras hacer parte de tu familia.</h2>
+							<div class="buttons">
+								<a href="#pricing-table" class="btn btn-learn">ðŸ¾ Fundaciones</a>
+								<a href="Index0.1.html" class="btn btn-learn">ðŸ¾ cerrar sesion</a>
+						
+							</div>
+							
+						</div>
+						
+					</div>
+				</div>
+				</center>
+			</div>
+			<div class="scrolldown">
+	            <a id="scroll" href="#features" class="scroll"></a>
+	        </div>
+		</section>
+				<section id="blog">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="title">
+							<h2>Galeria de mascotas</h2>
+							<p>k-NiNos es una plataforma web interactiva especializada en canes, creada con el objetivo de brindar una ayuda a aquellos animales que necesitan un hogar. presentamos gran variedad de perros en adopciÃ³n procedentes de una protectora. que buscan una casa de acogidao o una nueva familia. claro que, como intermediario, solo ponemos en contacto al usuario con la protectora correspondiente</p>
+							<a>Escribenos a kninos2017@gmail.com para contactarte con la protectora Email.</a>
+						</div>
+						<div id="blog-post" class="owl-carousel">
+							<div>
+								<div class="block">
+									<img src="img/blog/01.jpg" alt="" class="img-responsive">
+									<div class="content">
+										<h4>Alana</h4>
+										<small>Fundacion / Huella Roja</small>
+										<small>2 AÃ±os / Hembra</small>
+										<p>
+										 DESDE QUE FUE RESCATADA ESTÃ EN CASA DE ACOGIDA, Y EN MUY POCO TIEMPO HA RECUPERADO TANTO LA SALUD COMO LA ENERGÃA Y LA ALEGRÃA DE QUERER CONOCERLO TODO, Y TAMBIÃ‰N HA APRENDIDO MUCHÃSIMO.
+										</p>
+										<a href="#contact-form" class="btn btn-read">adoptar</a>
+										
+										
+									</div>
+
+								</div>
+							</div>
+							<div>
+								<div class="block">
+									<img src="img/blog/02.jpg" alt="" class="img-responsive">
+										<div class="content">
+										<h4>Cece</h4>
+											<small>Fundacion / Huella Roja</small>
+										    <small>2 AÃ±os / Hembra</small>
+										<p>
+											CECE ES UN PERRO MUY ALEGRE QUE ES FELIZ CUANDO TIENE SITIO PARA CORRER Y SALTAR, Y BUSCA UNA CASA DEFINITIVA QUE LE SIGA DANDO LA ESTABILIDAD Y LA TRANQUILIDAD QUE NECESITA.
+											</p>
+										<a href="#contact-form" class="btn btn-read">adoptar</a>
+										
+										
+									</div>
+
+								</div>
+							</div>
+							<div>
+								<div class="block">
+									<img src="img/blog/03.jpg" alt="" class="img-responsive">
+								<div class="content">
+										<h4>Potro</h4>
+										<small>Fundacion / Huella Roja</small>
+										    <small>3 AÃ±os / Macho</small>
+										<p>
+											 FUE ABANDONADO JUNTO A OTROS DOS COMPAÃ‘EROS EN LA PERRERA, LO ESTÃ PASANDO FATAL. NECESITAMOS ACOGIDA O ADOPCIÃ“N, ALLI HACE DEMACIADO FRIO EL TE NECESITA.
+										</p>
+										<a href="#contact-form" class="btn btn-read">adoptar</a>
+										
+									</div>
+
+								</div>
+							</div>
+							<div>
+								<div class="block">
+									<img src="img/blog/04.jpg" alt="" class="img-responsive">
+										<div class="content">
+										<h4>Baxter</h4>
+										<small>Fundacion / Patitas de la calle</small>
+										    <small>2 AÃ±os / Macho</small>
+										<p>
+										BAXTER ES PEQUEÃ‘O, PERO EN SU PROPIA MENTE ES GRANDE. A BAXTER LE GUSTA SER TRAVIESO CON SUS AMIGOS DE TAMAÃ‘O GRANDE EN EL PATIO. LE ENCANTA JUGAR CON ELLOS.
+										</p>
+										<a href="#contact-form" class="btn btn-read">adoptar</a>
+										</div>
+
+								</div>
+							</div>
+							<div>
+								<div class="block">
+									<img src="img/blog/05.jpg" alt="" class="img-responsive">
+									<div class="content">
+										<h4>Wonder</h4>
+										<small>Fundacion / Patitas de la calle</small>
+										    <small>3 AÃ±os / Macho</small>
+										<p>
+											ES UN PERRO MUY TRANQUILO CARIÃ‘OSO Y OBEDIENTE. NO DA NINGÃšN PROBLEMA. NO TIENE MIEDO, TIENE MUY BUEN CARÃCTER Y ES BASTANTE SOCIABLE 
+										</p>
+										<a href="#contact-form" class="btn btn-read">adoptar</a>
+										
+										
+									</div>
+								</div>
+							</div>
+							<div>
+								<div class="block">
+									<img src="img/blog/06.jpg" alt="" class="img-responsive">
+										<div class="content">
+										<h4>Piku</h4>
+										<small>Fundacion / Patitas de la calle</small>
+										    <small>4 AÃ±os / Macho</small>
+										<p>
+										 UN DÃA UN VECINO VIO A PIKU MUY FLACO Y DÃ‰BIL Y PUDO COGERLO, LLAMÃ“ A LA POLICÃA QUE NOS LO HA TRAÃDO AHORA BUSCA UN HOGAR 
+										</p>
+										<a href="#contact-form" class="btn btn-read">adoptar</a>
+										</div>
+
+								</div>
+							</div>
+							<div>
+								<div class="block">
+									<img src="img/blog/07.jpg" alt="" class="img-responsive">
+										<div class="content">
+										<h4>MuÃ±eca</h4>
+										<small>Fundacion Huellitas sin hogar / P</small>
+										    <small>5 AÃ±os / Hembra</small>
+										<p>
+										MUÃ‘ECA TERMINÃ“ CON SUS PATITAS EN LA PERRERA, DE AHÃ FUE RESCATADO Y, A BASE DE CARIÃ‘O Y EDUCACIÃ“N, AHORA ES UN BUENA PERRA
+
+										</p>
+										<a href="#contact-form" class="btn btn-read">adoptar</a>
+										</div>
+
+								</div>
+							</div>
+							
+						</div>		
+					</div>
+				</div>
+			</div>
+		</section>
+
+	
+		
+		
+		
+		<section id="pricing-table">
+			<div class="container">
+				<div class="row">
+					<div class="title">
+						<h2>FUNDACIONES ASOCIADAS</h2>
+						<p>Como decimos, K-NiNos es un intermediario, por lo que el usuario debe de contactar con la protectora. <br>Las sigientes son protectoras que ya estan asociadas con nosotros </p>
+					</div>
+					<div class="col-md-4 col">
+						<div class="block text-center wow fadeInLeft" data-wow-delay=".3s">
+							<ul>
+								<li>
+									<h4>Fundacion</h4>
+									<p>Patitas de la calle </p>
+									
+								</li>
+
+								<li><p>Un grupo de personas dediferentes</p></li>
+								<li><p>profesiones con un interÃ©s</p></li>
+								<li><p>en comÃºn Dedicar nuestros </p></li>
+								<li><p> mayores esfuerzos morales, </p></li>
+								<li><p>intelectuales y econÃ³micos,</p></li>
+								<li><p>para brindar una ayuda a los animales </p></li>
+								<li>
+									<a href="http://fpatitasenlacalle.weebly.com/index.html" class="btn btn-buy">Ver fundacion</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-4 col">
+						<div class="block text-center wow zoomIn" data-wow-delay=".3s">
+							<ul>
+								<li>
+									<h4>Fundacion </h4>
+									<p>Huella roja</p>
+								</li>
+								<li><p>trabajamos dÃ­a a dÃ­a por la protecciÃ³n </p></li>
+								<li><p>de los animales y promovemos el respeto</p></li>
+								<li><p>por una vida digna y feliz llevamos 12</p></li>
+								<li><p>aÃ±os trabajando en diferentes lugares de </p></li>
+								<li><p>Colombia, en diferentes puntos de acciÃ³n </p></li>
+								<li><p>que permiten una mejor calidad de vida </p></li>
+								<li><p>a nuestros amigos.</p></li>
+								<li>
+									<a href="http://huellaroja.org/" class="btn btn-buy">Ver fundacion</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-4 col">
+						<div class="block text-center wow fadeInRight" data-wow-delay=".3s">
+							<ul>
+								<li>
+									<h4>Fundacion</h4>
+									<p>Huellitas sin hogar</p>
+								</li>
+								<li><p>Huellitas sin hogar es el </p></li>
+								<li><p>esfuerzo de un grupo de amigos </p></li>
+								<li><p>por ayudar a los miles de </p></li>
+								<li><p>animales que se encuentran  </p></li>
+								<li><p>desprotegidos y en las calles </p></li>
+								<li><p>colombianas.</p></li>
+								<li>
+									<a href="http://huellitas.social/" class="btn btn-buy">Ver fundacion</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+
+
+
+		
+						   
+		<section id="contact-form">
+			<div class="container">
+				<div class="row">
+					<div class="title">
+						<h2>CONTACTO</h2>
+						<p>ESCRIBENOS A: KNINOS2017@GMAIL.COM PARA CONTACTARTE CON LA PROTECTORA CORRESPONDINETE. <br> CUENTANOS CUAL SERA TU PRÃ“XIMO ACOMPAÃ‘ANTE PELUDO</p>
+					</div>
+					<div class="col-md-6 col">
+						<!-- map -->
+						<div class="map">
+	                      
+	                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.6370005170943!2d-74.06916648470165!3d4.6586507966159445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9a505c3be6cd%3A0x41439afac6d4355f!2sSena+Sede+Colombia!5e0!3m2!1ses-419!2sco!4v1504123557456" width="550" height="370" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+	                   </div><!--/map-->
+
+					</div>
+					<div class="col-md-6">
+						<form>
+                            <input type="text" class="form-control" placeholder="Nombre y apellios">
+                            <input type="text" class="form-control" placeholder="Nombre de la mascota ">
+                            <input type="text" class="form-control" placeholder="Email">
+                            <textarea class="form-control" rows="3" placeholder="Escrbenos cual sera tu proximo acompaÃ±ante peludo "></textarea>
+                            <button class="btn btn-default" type="submit">enviar</button>
+                        </form>
+					</div>
+				</div>
+			</div>
+		</section>
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="block">
+							<a href="#"></a>
+							<p>Todos los derechos reservados Â© 2017. K-NiNos ðŸ¾ Colombia-Bogota D.C</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+		<!-- load Js -->
+		<script src="js/jquery-1.11.3.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDY0kkJiTPVd2U7aTOAwhc9ySH6oHxOIYM&amp;sensor=false"></script>
+		<script src="js/waypoints.min.js"></script>
+		<script src="js/lightbox.js"></script>
+		<script src="js/jquery.counterup.min.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
+		<script src="js/html5lightbox.js"></script>
+		<script src="js/jquery.mixitup.js"></script>
+		<script src="js/wow.min.js"></script>
+		<script src="js/jquery.scrollUp.js"></script>
+		<script src="js/jquery.sticky.js"></script>
+		<script src="js/jquery.nav.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>
